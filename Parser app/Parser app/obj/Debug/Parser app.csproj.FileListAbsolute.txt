@@ -9,7 +9,6 @@ C:\Users\Dima\Documents\Visual Studio 2015\Projects\Stats parser\Parser app\bin\
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\bin\Debug\Stats_parser.exe.config
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\bin\Debug\Stats_parser.exe
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\bin\Debug\Stats_parser.pdb
-C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\obj\Debug\Parser app.csprojResolveAssemblyReference.cache
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\obj\Debug\Stats_parser.Properties.Resources.resources
 C:\Users\Dima\Documents\Visual Studio 2015\Projects\Parser app\Parser app\obj\Debug\Parser app.csproj.GenerateResource.Cache
